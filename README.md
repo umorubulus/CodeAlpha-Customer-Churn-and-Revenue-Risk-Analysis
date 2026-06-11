@@ -470,7 +470,7 @@ The following visualizations were developed to understand customer churn behavio
 
 # 1️⃣ Customer Churn Distribution
 
-![Customer Churn Distribution](images/churn_distribution.png)
+![Customer Churn Distribution](image/churn_distribution.png)
 
 ## Objective
 
@@ -507,7 +507,7 @@ Customer churn should therefore be treated as a strategic business concern.
 
 # 2️⃣ Churn Rate by Contract Type
 
-![Churn Rate by Contract Type](images/churn_by_contract.png)
+![Churn Rate by Contract Type](image/churn_by_contract.png)
 
 ## Objective
 
@@ -549,7 +549,7 @@ High churn among month-to-month customers creates instability in recurring reven
 
 # 3️⃣ Churn Rate by Tenure Group
 
-![Churn Rate by Tenure Group](images/churn_by_tenure_group.png)
+![Churn Rate by Tenure Group](image/churn_by_tenure_group.png)
 
 ## Objective
 
@@ -591,7 +591,7 @@ High churn among new customers increases customer acquisition costs and reduces 
 
 # 4️⃣ Churn Rate by Payment Method
 
-![Churn Rate by Payment Method](images/churn_by_payment_method.png)
+![Churn Rate by Payment Method](image/churn_by_payment_method.png)
 
 ## Objective
 
@@ -631,7 +631,7 @@ Payment-related friction may contribute to customer attrition.
 
 # 5️⃣ Churn Rate by Customer Value Segment
 
-![Churn Rate by Customer Value Segment](images/churn_by_customer_value_segment.png)
+![Churn Rate by Customer Value Segment](image/churn_by_customer_value_segment.png)
 
 ## Objective
 
@@ -673,7 +673,7 @@ Revenue losses are amplified when high-spending customers leave.
 
 # 6️⃣ Monthly Charges by Churn Status
 
-![Monthly Charges by Churn Status](images/monthly_charges_by_churn.png)
+![Monthly Charges by Churn Status](image/monthly_charges_by_churn.png)
 
 ## Objective
 
@@ -711,7 +711,7 @@ Pricing structures can influence customer retention outcomes.
 
 # 7️⃣ Monthly Revenue at Risk by Contract Type
 
-![Monthly Revenue at Risk by Contract Type](images/revenue_risk_by_contract.png)
+![Monthly Revenue at Risk by Contract Type](image/revenue_risk_by_contract.png)
 
 ## Objective
 
