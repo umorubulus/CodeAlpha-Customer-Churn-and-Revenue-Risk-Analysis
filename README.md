@@ -757,29 +757,17 @@ Reducing churn among month-to-month customers could significantly improve financ
 
 The analysis reveals several important patterns:
 
-### Finding 1
+1. Month-to-month customers have the highest churn rates.
 
-Month-to-month customers have the highest churn rates.
+2. New customers are more likely to churn than long-term customers.
 
-### Finding 2
+3.Electronic Check users exhibit elevated churn rates.
 
-New customers are more likely to churn than long-term customers.
+4. High-value customers create the greatest revenue risk.
 
-### Finding 3
+5. Customers paying higher monthly fees tend to churn more frequently.
 
-Electronic Check users exhibit elevated churn rates.
-
-### Finding 4
-
-High-value customers create the greatest revenue risk.
-
-### Finding 5
-
-Customers paying higher monthly fees tend to churn more frequently.
-
-### Finding 6
-
-Most revenue at risk originates from month-to-month customers.
+6. Most revenue at risk originates from month-to-month customers.
 
 ---
 
@@ -888,3 +876,20 @@ Customer churn directly impacts:
 Organizations that effectively understand and manage churn often outperform competitors because they can retain more customers and reduce acquisition costs.
 
 This project demonstrates how data analytics can support those goals.
+---
+
+# 🌐 Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/bulus-umoru/
+
+### Portfolio
+
+https://umorubulus.github.io/Portfolio/
+
+### GitHub
+
+https://github.com/umorubulus
+
+---
